@@ -31,13 +31,7 @@ A Python project that predicts gender and age using pretrained models.
 
 ---
 
-### 💬 <a href="https://github.com/Bhavyasri-kovi/Sentiment-Analysis">Restaurant Review Sentiment Analysis</a>
-Classifies restaurant reviews as positive or negative using NLP techniques.  
-✔ Naive Bayes  
-✔ TF-IDF  
-✔ Complete preprocessing pipeline  
 
----
 
 ## 🛠 Skills
 
